@@ -70,3 +70,14 @@ The predeploy script will run automatically before deploy is run.
 ```
 npm run deploy
 ```
+
+## Screenshots
+
+#### Home Page
+![Home Page](screenshots/home%20page.png?raw=true)
+
+#### Chart Page
+![Chart Page](screenshots/chart%20page.png?raw=true)
+
+#### Map Page
+![MapPage](screenshots/map%20page.png?raw=true)
