@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/aficat.github.io/gmhc/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/aficat.github.io/gmhc/static/js/main.6dbfb042.chunk.js",
-    "main.js.map": "/aficat.github.io/gmhc/static/js/main.6dbfb042.chunk.js.map",
-    "runtime-main.js": "/aficat.github.io/gmhc/static/js/runtime-main.d4bf7198.js",
-    "runtime-main.js.map": "/aficat.github.io/gmhc/static/js/runtime-main.d4bf7198.js.map",
-    "static/css/2.b4f3389a.chunk.css": "/aficat.github.io/gmhc/static/css/2.b4f3389a.chunk.css",
-    "static/js/2.ee659096.chunk.js": "/aficat.github.io/gmhc/static/js/2.ee659096.chunk.js",
-    "static/js/2.ee659096.chunk.js.map": "/aficat.github.io/gmhc/static/js/2.ee659096.chunk.js.map",
-    "index.html": "/aficat.github.io/gmhc/index.html",
-    "precache-manifest.379e0ce43b90d250c6018b00aeacb37d.js": "/aficat.github.io/gmhc/precache-manifest.379e0ce43b90d250c6018b00aeacb37d.js",
-    "service-worker.js": "/aficat.github.io/gmhc/service-worker.js",
-    "static/css/2.b4f3389a.chunk.css.map": "/aficat.github.io/gmhc/static/css/2.b4f3389a.chunk.css.map",
-    "static/css/main.8ab6f918.chunk.css.map": "/aficat.github.io/gmhc/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.ee659096.chunk.js.LICENSE.txt": "/aficat.github.io/gmhc/static/js/2.ee659096.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/aficat.github.io/gmhc/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/aficat.github.io/gmhc/static/media/fa-solid-900.cdfec5cf.woff"
+    "main.css": "/gmhc/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/gmhc/static/js/main.9c1e4c01.chunk.js",
+    "main.js.map": "/gmhc/static/js/main.9c1e4c01.chunk.js.map",
+    "runtime-main.js": "/gmhc/static/js/runtime-main.aabdbb8a.js",
+    "runtime-main.js.map": "/gmhc/static/js/runtime-main.aabdbb8a.js.map",
+    "static/css/2.f9043baf.chunk.css": "/gmhc/static/css/2.f9043baf.chunk.css",
+    "static/js/2.ee659096.chunk.js": "/gmhc/static/js/2.ee659096.chunk.js",
+    "static/js/2.ee659096.chunk.js.map": "/gmhc/static/js/2.ee659096.chunk.js.map",
+    "index.html": "/gmhc/index.html",
+    "precache-manifest.13bb81ed29d7659f2e920463c9dca2a9.js": "/gmhc/precache-manifest.13bb81ed29d7659f2e920463c9dca2a9.js",
+    "service-worker.js": "/gmhc/service-worker.js",
+    "static/css/2.f9043baf.chunk.css.map": "/gmhc/static/css/2.f9043baf.chunk.css.map",
+    "static/css/main.8ab6f918.chunk.css.map": "/gmhc/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.ee659096.chunk.js.LICENSE.txt": "/gmhc/static/js/2.ee659096.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/gmhc/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/gmhc/static/media/fa-solid-900.cdfec5cf.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4bf7198.js",
-    "static/css/2.b4f3389a.chunk.css",
+    "static/js/runtime-main.aabdbb8a.js",
+    "static/css/2.f9043baf.chunk.css",
     "static/js/2.ee659096.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.6dbfb042.chunk.js"
+    "static/js/main.9c1e4c01.chunk.js"
   ]
 }
