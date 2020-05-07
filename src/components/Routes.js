@@ -8,11 +8,11 @@ class Routes extends React.Component {
   render() {
     return (
       <>
-        <Redirect from='/' to='/gmhc' />
+        {/* <Redirect from='/' to='/google-maps-high-charts' /> */}
         <Switch>
-          <Route path='/gmhc' exact component={HomePage} />
-          <Route path='/gmhc/map' component={MapPage} />
-          <Route path='/gmhc/chart' component={ChartPage} />
+          <Route path='/google-maps-high-charts' exact component={HomePage} />
+          <Route path='/google-maps-high-charts/map' component={MapPage} />
+          <Route path='/google-maps-high-charts/chart' component={ChartPage} />
         </Switch>
       </>
     );

@@ -25,12 +25,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Setup Guide
 1. Open Git Bash/ Command Prompt/ Terminal. Clone repository.
 ```
-git clone https://github.com/aficat/google-maps-high-charts-api.git 
+git clone https://github.com/aficat/google-maps-high-charts.git 
 ```
 
 2. Navigate to project folder
 ```
-cd google-maps-high-charts-api
+cd google-maps-high-charts
 ```
 
 3. Install dependencies:
@@ -43,32 +43,6 @@ npm install
 5. Run application. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ```
 npm run start
-```
-
-### Deployment
-1. To publish it at https://myusername.github.io/my-app, run:
-
-```
-npm install --save gh-pages
-```
-
-2. Add the following scripts in your package.json:
-
-```
-  "scripts": {
-+   "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-```
-The predeploy script will run automatically before deploy is run.
-
-3. Add `"homepage": "https://<insert username>.github.io/<insert app-name>"` into package.json.
-
-4. Deploy the site by running: 
-
-```
-npm run deploy
 ```
 
 ## Screenshots
